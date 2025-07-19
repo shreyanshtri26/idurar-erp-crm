@@ -2,8 +2,11 @@
 
 A modern, open-source CRM and ERP platform.
 
-<img width="1892" height="837" alt="image" src="https://github.com/user-attachments/assets/ebed2eba-5fd8-4d5f-a3ae-693af149f41d" />
+![CRM ERP Platform](https://github.com/user-attachments/assets/ebed2eba-5fd8-4d5f-a3ae-693af149f41d)
 
+---
+
+## Generate Summary button for invoice item notes, powered by Gemini!
 
 ---
 
@@ -138,5 +141,3 @@ Authorization: Bearer <token>
 ```
 
 ---
-
-For more details, see the documentation in each module or contact the maintainers.
